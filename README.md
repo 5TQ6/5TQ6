@@ -48,7 +48,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tq6)]
-(https://github.com/5tq6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tq6)](https://github.com/5tq6/github-readme-stats)
 
 ![Snake animation](https://github.com/5tq6/5tq6/blob/output/github-contribution-grid-snake.svg?raw=true)
