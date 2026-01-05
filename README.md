@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <a href="https://www.instagram.com/5tq6/">
@@ -29,7 +29,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
+    "Full Stack Developer",
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
@@ -48,5 +48,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+## My Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tq6&langs_count=10)](https://github.com/5tq6/github-readme-stats)
+
 ![Snake animation](https://github.com/5tq6/5tq6/blob/output/github-contribution-grid-snake.svg?raw=true)
