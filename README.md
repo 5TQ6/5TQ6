@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:f12711,100:ffff&text=Welcome%20to%20Humam%20Profile&fontColor=fffff&desc=______"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:f12711,100:ffff&text=Welcome%20To%20Humam%20Profile&fontColor=0&fontSize=55&animation=twinkling&desc=___________________________"/>
 </p>
 
 <p align="left">
